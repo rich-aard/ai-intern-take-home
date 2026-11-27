@@ -8,6 +8,13 @@ Python scripts for ticket cleaning and basic NLP (Task 1), a public API client w
 
 ## Setup
 
+### Clone the repository
+
+```
+git clone https://github.com/rich-aard/ai-intern-take-home.git
+cd ai-intern-take-home
+```
+
 ### Create a virtual environment
 
 ```
